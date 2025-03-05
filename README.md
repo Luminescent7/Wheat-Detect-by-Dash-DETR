@@ -30,4 +30,4 @@ python app.py
 5. Try the app at `localhost:8050`!
 
 ## Statement
-The inspiration for this project is from [*dash-detr*](https://github.com/plotly/dash-detr/tree/master)
+The inspiration for this project comes from [*dash-detr*](https://github.com/plotly/dash-detr/tree/master)
